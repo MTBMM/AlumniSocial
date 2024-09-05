@@ -1,1 +1,1 @@
-# AlumniSocial
+AlumniSocial
