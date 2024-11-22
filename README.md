@@ -55,7 +55,7 @@ python manage.py runserver
 open cmd project
 cd alumniapp
 npm i
-expo start
+npm start
 ```
 ## 📧[Contact](#contact)
 <p>Don't hesitate to contact me if you have any confusion or questions.</p>
