@@ -13,7 +13,7 @@
     - Share updates, photos, and achievements.
     - Engage with posts via likes, comments, and shares.
 - Messaging and Communication:
-    - Supports one-on-one messaging using Firebase as the backend for real-time data synchronization.
+    - Supports one-on-one messaging using Firebase as the frontend for real-time data synchronization.
     - State management for messages is handled efficiently using Redux, ensuring seamless updates and smooth user interactions.
     
 - Group and Event Management:
