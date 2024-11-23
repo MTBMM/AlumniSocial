@@ -34,7 +34,7 @@
 * 📧[Contact](#contact)
 
   ## 🏛️Technology Architecture
-  ![image](https://github.com/user-attachments/assets/06bb4384-7264-4d3d-bfbc-fb5271873fdf)
+![image](https://github.com/user-attachments/assets/7cbb44bc-f9c3-4b95-9288-19854359058a)
 
   ## 📅Database schema diagram
 ![image](https://github.com/user-attachments/assets/73568fb1-28a8-491e-af32-51d8601d3fc1)
