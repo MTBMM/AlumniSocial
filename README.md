@@ -23,6 +23,7 @@
                     - Administrators can create events and:
                     - Add individuals or groups to the event.
                     - Notify all selected participants directly via the app.
+ - User authentication use Django auth2
 ## Table of contents
 * 🏛️[Technology Architecture](#architecture-diagram)
 * 📅[Database schema diagram](#database-schema-diagram)
